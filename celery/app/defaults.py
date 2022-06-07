@@ -207,7 +207,7 @@ NAMESPACES = Namespace(
         exchange=Option('celeryresults'),
         exchange_type=Option('direct'),
         expires=Option(
-            timedelta(days=1),
+            timedelta(hours=1),
             type='float', old={'celery_task_result_expires'},
         ),
         persistent=Option(None, type='bool'),
