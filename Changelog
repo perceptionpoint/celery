@@ -8,6 +8,16 @@ This document contains change notes for bugfix releases in
 the 4.x series, please see :ref:`whatsnew-4.3` for
 an overview of what's new in Celery 4.3.
 
+4.3.p
+=====
+
+:release-date: 2022-09-10
+:release-by: Omer Katz
+
+- Forked to our own release
+
+  Contributed by **Yaron Reshef**
+
 4.3.1
 =====
 

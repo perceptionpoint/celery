@@ -1,4 +1,4 @@
-:Version: 4.3.1 (rhubarb)
+:Version: 4.3.p
 :Web: http://celeryproject.org/
 :Download: https://pypi.org/project/celery/
 :Source: https://github.com/celery/celery/
