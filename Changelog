@@ -8,7 +8,7 @@ This document contains change notes for bugfix releases in
 the 4.x series, please see :ref:`whatsnew-4.3` for
 an overview of what's new in Celery 4.3.
 
-4.3.p
+4.3.2
 =====
 
 :release-date: 2022-09-10
